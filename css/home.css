@@ -1,0 +1,40 @@
+
+.background {
+    background-image: radial-gradient(rgb(177, 230, 210), rgb(121, 25, 25));
+    background-repeat: no-repeat;
+}
+
+.pbackground {
+    background-image: radial-gradient(white,white,white, blue);
+}
+
+.header {color: #3b2727; text-align: center; font-size: 30px; font-family: Arial, Helvetica, sans-serif;}
+
+.font-family {
+    font-family: sans-serif;
+}
+
+.font-style {
+    font-style: italic;
+}
+
+.table {
+    
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    margin-top: 153px; /* altAlan yuksekliginin eksi degeri */
+    height: 133px;
+    clear:both;
+}
+
+.inside {
+    list-style-position: inside;
+
+  }
+
+
